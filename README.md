@@ -109,6 +109,12 @@ const rafael = {
 
 <div align="center">
 
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=9b59b6&author_color=bb86fc&border_color=9b59b6" alt="Random Dev Quote" />
+
+---
+
 ## 🤝 Let's Connect!
 
 <p>
@@ -122,12 +128,6 @@ const rafael = {
     <img src="https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=9b59b6&author_color=bb86fc&border_color=9b59b6" alt="Random Dev Quote" />
 
 ---
 
