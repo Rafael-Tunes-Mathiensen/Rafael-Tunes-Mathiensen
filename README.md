@@ -1,70 +1,154 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<p align="center">My name is Rafael Tunes Mathiensen and I'm a 16, from Araras, São Paulo Brazil.</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">✨ Creating codes since 2024.<br><br>📚 I'm currently learning: html, php, css, c++ and java <br><br>🎯 Goals: Find an area that I like and then specialize and focus on learning it, get a steady job using that area and build a solid career of constant learning.<br><br>🎲 Fun fact: I know lua because I like to program games for roblox in my spare time, I like to draw and I'm very curious, so I always like to learn new things and I also really enjoy the area of ​​game development.</p>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
+  
+# 👋 Hello, I'm Rafael Tunes Mathiensen
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaeltunes&label=Profile%20Views&color=9b59b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+### 🚀 About Me
+
+```typescript
+const rafael = {
+    location: "Araras, São Paulo, Brazil",
+    age: 16,
+    role: "Developer & Creative Enthusiast",
+    codingSince: 2024,
+    currentFocus: ["Web Development", "Game Development", "Problem Solving"],
+    passions: ["Programming", "Drawing", "Roblox Development", "Learning"],
+    lifeGoal: "Build a solid career in tech with constant learning"
+};
+```
+
 </div>
 
-###
+---
+
+## 💼 Current Journey
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📚 Learning Path
+- 🌐 **Web Development**: HTML, CSS, PHP
+- 💻 **Programming**: Java, C++
+- 🎮 **Game Development**: Lua (Roblox)
+- 🗄️ **Databases**: MySQL, Oracle
+
+</td>
+<td width="50%">
+
+### 🎯 Goals & Vision
+- 🔍 Discover my perfect tech niche
+- 📈 Specialize and master my craft
+- 💼 Build a sustainable tech career
+- 🌱 Never stop learning and growing
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+## 🛠️ Tech Stack & Tools
+
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="250" alt="Coding Cat" />
+
+### Languages & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,php,lua,cpp,mysql,git,github,vscode,photoshop&theme=dark" alt="Tech Stack" />
+</p>
+
+### 📊 Skills Overview
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS-9b59b6?style=for-the-badge&logo=html5&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Backend-PHP%20|%20Java-9b59b6?style=for-the-badge&logo=php&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Game%20Dev-Lua%20|%20Roblox-9b59b6?style=for-the-badge&logo=roblox&logoColor=white" />
+</td>
+</tr>
+</table>
+
 </div>
 
-###
-
-<h2 align="center">Social media</h2>
-
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-tunes-mathiensen/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+
+## 📈 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaeltunes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9b59b6&icon_color=bb86fc&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeltunes&theme=tokyonight&hide_border=true&background=1a1b27&ring=9b59b6&fire=bb86fc&currStreakLabel=9b59b6" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltunes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9b59b6&text_color=c9d1d9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeltunes&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=9b59b6&line=bb86fc&point=c9d1d9" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 Fun Facts About Me
+
+<table>
+<tr>
+<td align="center" width="33%">
+🎮<br/><b>Game Development</b><br/>Creating experiences in Roblox
+</td>
+<td align="center" width="33%">
+🎨<br/><b>Creative Mind</b><br/>Drawing and visual arts
+</td>
+<td align="center" width="33%">
+🧠<br/><b>Curious Learner</b><br/>Always exploring new tech
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<p>
+  <a href="https://www.linkedin.com/in/rafael-tunes-mathiensen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/rafa.tunes_/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/rafa.tunes_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-9b59b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
+---
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=9b59b6&author_color=bb86fc&border_color=9b59b6" alt="Random Dev Quote" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
+
+**⭐ Feel free to explore my repositories and don't forget to star the ones you like!**
+
+</div>
