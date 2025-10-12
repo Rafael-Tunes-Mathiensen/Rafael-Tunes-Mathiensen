@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating codes since 2024.<br><br>📚 I'm currently learning: html, css, c++ and java <br><br>🎯 Goals: Find an area that I like and then specialize and focus on learning it, get a steady job using that area and build a solid career of constant learning.<br><br>🎲 Fun fact: I know lua because I like to program games for roblox in my spare time, I like to draw and I'm very curious, so I always like to learn new things and I also really enjoy the area of ​​game development.</p>
+<p align="left">✨ Creating codes since 2024.<br><br>📚 I'm currently learning: html, php, css, c++ and java <br><br>🎯 Goals: Find an area that I like and then specialize and focus on learning it, get a steady job using that area and build a solid career of constant learning.<br><br>🎲 Fun fact: I know lua because I like to program games for roblox in my spare time, I like to draw and I'm very curious, so I always like to learn new things and I also really enjoy the area of ​​game development.</p>
 
 ###
 
