@@ -85,22 +85,6 @@ const rafael = {
 
 </div>
 
----
-
-<div align="center">
-
-## 📈 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaeltunes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9b59b6&icon_color=bb86fc&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeltunes&theme=tokyonight&hide_border=true&background=1a1b27&ring=9b59b6&fire=bb86fc&currStreakLabel=9b59b6" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltunes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9b59b6&text_color=c9d1d9" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeltunes&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=9b59b6&line=bb86fc&point=c9d1d9" alt="Activity Graph" />
-
-</div>
-
----
-
 <div align="center">
 
 ## 🎨 Fun Facts About Me
