@@ -17,7 +17,7 @@ const rafael = {
     location: "Araras, São Paulo, Brazil",
     age: 16,
     role: "Developer & Creative Enthusiast",
-    codingSince: 2024,
+    codingSince: 2023,
     currentFocus: ["Web Development", "Game Development", "Problem Solving"],
     passions: ["Programming", "Drawing", "Roblox Development", "Learning"],
     lifeGoal: "Build a solid career in tech with constant learning"
@@ -35,9 +35,9 @@ const rafael = {
 <td width="50%">
 
 ### 📚 Learning Path
-- 🌐 **Web Development**: HTML, CSS, PHP
+- 🌐 **Web Development**: HTML, CSS
 - 💻 **Programming**: Java, C++
-- 🎮 **Game Development**: Lua (Roblox)
+- 🎮 **Game Development**: Lua (Roblox) C# (Unity)
 - 🗄️ **Databases**: MySQL, Oracle
 
 </td>
