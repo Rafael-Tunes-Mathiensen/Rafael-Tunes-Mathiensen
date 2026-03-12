@@ -75,7 +75,7 @@ const rafael = {
 <img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS-9b59b6?style=for-the-badge&logo=html5&logoColor=white" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Backend-PHP%20|%20Java-9b59b6?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Python%20|%20Java-9b59b6?style=for-the-badge&logo=php&logoColor=white" />
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Game%20Dev-Lua%20|%20Roblox-9b59b6?style=for-the-badge&logo=roblox&logoColor=white" />
