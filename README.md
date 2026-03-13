@@ -36,8 +36,8 @@ const rafael = {
 
 ### 📚 Learning Path
 - 🌐 **Web Development**: HTML, CSS
-- 💻 **Programming**: Java, C++
-- 🎮 **Game Development**: Lua (Roblox) C# (Unity)
+- 💻 **Programming**: Java, C++, Python
+- 🎮 **Game Development**: Lua (Roblox), GameMaker
 - 🗄️ **Databases**: MySQL, Oracle
 
 </td>
@@ -78,7 +78,7 @@ const rafael = {
 <img src="https://img.shields.io/badge/Backend-Python%20|%20Java-9b59b6?style=for-the-badge&logo=php&logoColor=white" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Game%20Dev-Lua%20|%20Roblox-9b59b6?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/Game%20Dev-Lua%20|%20GameMaker-9b59b6?style=for-the-badge&logo=roblox&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -92,7 +92,7 @@ const rafael = {
 <table>
 <tr>
 <td align="center" width="33%">
-🎮<br/><b>Game Development</b><br/>Creating experiences in Roblox
+🎮<br/><b>Game Development</b><br/>Creating experiences in various game engines
 </td>
 <td align="center" width="33%">
 🎨<br/><b>Creative Mind</b><br/>Drawing and visual arts
