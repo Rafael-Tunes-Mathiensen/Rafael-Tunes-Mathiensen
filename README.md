@@ -64,7 +64,7 @@ const rafael = {
 ### Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,lua,cpp,mysql,git,photoshop&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,lua,cpp,mysql,git,photoshop&theme=dark" alt="Tech Stack" />
 </p>
 
 ### 📊 Skills Overview
