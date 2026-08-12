@@ -27,6 +27,17 @@ const rafael = {
 </div>
 
 ---
+<div align="center">
+  
+## 🛠️ Tech Stack & Tools
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI2ODhyaDM1ZW4zcnIxeGtldWg2Zzg4czlibDZ2b3NxcmZyeTJycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+
+### Languages & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,python,java,html,css,cpp,mysql,git,photoshop&theme=dark" alt="Tech Stack" />
+</p>
 
 ## 💼 Current Journey
 
@@ -55,18 +66,6 @@ const rafael = {
 
 ---
 
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI2ODhyaDM1ZW4zcnIxeGtldWg2Zzg4czlibDZ2b3NxcmZyeTJycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
-
-### Languages & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,python,java,html,css,cpp,mysql,git,photoshop&theme=dark" alt="Tech Stack" />
-</p>
-
 ### 📊 Skills Overview
 
 <table>
@@ -78,7 +77,7 @@ const rafael = {
 <img src="https://img.shields.io/badge/Backend-Python%20|%20Java-9b59b6?style=for-the-badge&logo=php&logoColor=white" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Game%20Dev-Lua%20|%20GameMaker-9b59b6?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/Game%20Dev-Godot%20|%20GameMaker-9b59b6?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </td>
 </tr>
 </table>
