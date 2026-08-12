@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Rafael Tunes Mathiensen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Game+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaeltunes&label=Profile%20Views&color=9b59b6&style=for-the-badge" alt="Profile views" />
@@ -109,6 +109,13 @@ const rafael = {
 
 <div align="center">
 
+## ⭐ Projetos Principais
+
+- 🐺 [**Covil**](https://github.com/Rafael-Tunes-Mathiensen/Covil)
+- 🎮 [**2D-Plataform-Godot-Game**](https://github.com/Rafael-Tunes-Mathiensen/2D-Plataform-Godot-Game)
+
+---
+
 ### 💭 Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=9b59b6&author_color=bb86fc&border_color=9b59b6" alt="Random Dev Quote" />
@@ -131,7 +138,7 @@ const rafael = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" alt="Footer" />
 
 **⭐ Feel free to explore my repositories and don't forget to star the ones you like!**
 
