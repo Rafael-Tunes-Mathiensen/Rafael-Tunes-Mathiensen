@@ -48,7 +48,7 @@ const rafael = {
 ### 📚 Learning Path
 - 🌐 **Web Development**: HTML, CSS
 - 💻 **Programming**: Java, C++, Python
-- 🎮 **Game Development**: Lua (Roblox), GameMaker
+- 🎮 **Game Development**: Godot, GameMaker
 - 🗄️ **Databases**: MySQL, Oracle
 
 </td>
