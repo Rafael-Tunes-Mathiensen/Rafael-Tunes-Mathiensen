@@ -59,7 +59,7 @@ const rafael = {
 
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="250" alt="Coding Cat" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI2ODhyaDM1ZW4zcnIxeGtldWg2Zzg4czlibDZ2b3NxcmZyeTJycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
 ### Languages & Technologies
 
