@@ -111,8 +111,26 @@ const rafael = {
 
 ## ⭐ Projetos Principais
 
-- 🐺 [**Covil**](https://github.com/Rafael-Tunes-Mathiensen/Covil)
-- 🎮 [**2D-Plataform-Godot-Game**](https://github.com/Rafael-Tunes-Mathiensen/2D-Plataform-Godot-Game)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📞 Covil
+Projeto principal com foco em experiência e evolução contínua.
+
+[🔗 Ver repositório](https://github.com/Rafael-Tunes-Mathiensen/Covil)
+
+</td>
+<td align="center" width="50%">
+
+### 🎮 2D-Plataform-Godot-Game
+Jogo de plataforma 2D desenvolvido com Godot.
+
+[🔗 Ver repositório](https://github.com/Rafael-Tunes-Mathiensen/2D-Plataform-Godot-Game)
+
+</td>
+</tr>
+</table>
 
 ---
 
