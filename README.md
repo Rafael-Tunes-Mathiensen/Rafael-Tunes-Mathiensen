@@ -15,7 +15,7 @@
 ```typescript
 const rafael = {
     location: "Araras, São Paulo, Brazil",
-    age: 16,
+    age: 17,
     role: "Developer & Creative Enthusiast",
     codingSince: 2023,
     currentFocus: ["Web Development", "Game Development", "Problem Solving"],
