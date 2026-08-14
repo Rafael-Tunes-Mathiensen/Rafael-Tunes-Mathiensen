@@ -36,7 +36,7 @@ const rafael = {
 ### Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,python,java,html,css,cpp,mysql,git,photoshop&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=django,python,java,html,css,javascript,cpp,mysql,git,photoshop&theme=dark" alt="Tech Stack" />
 </p>
 
 ## 💼 Current Journey
