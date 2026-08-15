@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Rafael Tunes Mathiensen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Game+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=600&lines=rafaelmathiensen@gmail.com" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaeltunes&label=Profile%20Views&color=9b59b6&style=for-the-badge" alt="Profile views" />
@@ -16,9 +16,9 @@
 const rafael = {
     location: "Araras, São Paulo, Brazil",
     age: 17,
-    role: "Developer & Creative Enthusiast",
+    Technology+Student;Learning+Web+Development;Game+Development+as+a+Hobby
     codingSince: 2023,
-    currentFocus: ["Web Development", "Game Development", "Problem Solving"],
+    role: "Technology Student & Creative Enthusiast",
     passions: ["Programming", "Drawing", "Game Development", "Reading"],
     lifeGoal: "Build a solid career in tech with constant learning"
 };
@@ -148,7 +148,7 @@ Jogo de plataforma 2D desenvolvido com Godot.
   <a href="https://www.instagram.com/rafa.tunes_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9b59b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
+  <a href="mailto:mailto:rafaelmathiensen@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
