@@ -19,7 +19,7 @@ const rafael = {
     role: "Developer & Creative Enthusiast",
     codingSince: 2023,
     currentFocus: ["Web Development", "Game Development", "Problem Solving"],
-    passions: ["Programming", "Drawing", "Roblox Development", "Learning"],
+    passions: ["Programming", "Drawing", "Game Development", "Reading"],
     lifeGoal: "Build a solid career in tech with constant learning"
 };
 ```
